@@ -2,6 +2,7 @@
           🔍 Search Smarter • 💡 Generate Better • ⚙️ Build Faster
 
 An AI-powered Retrieval-Augmented Generation (RAG) application designed for intelligent code querying, semantic search, and contextual code assistance. CodeRAG enables developers to upload, manage, and query code-related information efficiently using modern web technologies and vector-based retrieval concepts.
+__________________________________________________________________________________________
 Features :
 AI-powered code query system
 Retrieval-Augmented Generation (RAG) workflow
@@ -14,14 +15,14 @@ Reusable component-based architecture
 API-ready project structure
 _____________________________________________________________________________________________
 Tech Stack:
-Frontend
+Frontend-
 React.js
 TypeScript
 Vite
 Tailwind CSS
 shadcn/ui
 React Router DOM
-Backend / Services
+Backend / Services-
 Supabase
 React Query
 Development Tools
@@ -31,10 +32,15 @@ PostCSS
 ______________________________________________________________________________________________
 Installation:
 Clone the Repository-git clone https://github.com/Divyadharshini-03r/CodeRAG.git
+
 Navigate to the Project Directory-cd CodeRAG
+
 Install Dependencies-npm install
+
 Running the Project
+
 Development Server-npm run dev
+
 The application will run on:http://localhost:5173
 _____________________________________________________________________________________________
 Project Objectives
